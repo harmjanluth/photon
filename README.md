@@ -10,3 +10,7 @@ imagemin
 resources min
 how to handle fonts
 server speed, location
+
+https://developers.google.com/speed/spdy/?hl=en
+https://atmospherejs.com/meteor/minimongo
+https://atmospherejs.com/slava/miniredis
