@@ -14,3 +14,6 @@ server speed, location
 https://developers.google.com/speed/spdy/?hl=en
 https://atmospherejs.com/meteor/minimongo
 https://atmospherejs.com/slava/miniredis
+
+https://en.wikipedia.org/wiki/Time_To_First_Byte
+Time To First Byte (TTFB) is a measurement used as an indication of the responsiveness of a webserver or other network resource.
