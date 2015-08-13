@@ -1,2 +1,2 @@
 # photon
-Photon - The HTML performance framework with the speed of light
+Photon - The HTML performance guide for webapplications with the speed of light
