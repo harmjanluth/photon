@@ -17,3 +17,5 @@ https://atmospherejs.com/slava/miniredis
 
 https://en.wikipedia.org/wiki/Time_To_First_Byte
 Time To First Byte (TTFB) is a measurement used as an indication of the responsiveness of a webserver or other network resource.
+
+https://medium.com/@luisvieira_gmr/html5-prefetch-1e54f6dda15d
