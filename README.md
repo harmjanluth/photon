@@ -1,6 +1,8 @@
 # Photon
 Photon - The performance guide for web applications with the speed of light.
 
+This guide isn't intended to speed up a website, this guide is intended to give guidelines for websites without -nearly- any loading time. 
+
 critical css
 non-blocking
 dns prefetch
