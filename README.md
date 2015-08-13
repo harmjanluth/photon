@@ -6,3 +6,7 @@ non-blocking
 dns prefetch
 predictable resources
 offline first - local store
+imagemin
+resources min
+how to handle fonts
+server speed, location
